@@ -1,0 +1,7 @@
+D:\c#练习项目\HelloEvent\HelloEvent\bin\Debug\HelloEvent.exe.config
+D:\c#练习项目\HelloEvent\HelloEvent\bin\Debug\HelloEvent.exe
+D:\c#练习项目\HelloEvent\HelloEvent\bin\Debug\HelloEvent.pdb
+D:\c#练习项目\HelloEvent\HelloEvent\obj\Debug\HelloEvent.csproj.AssemblyReference.cache
+D:\c#练习项目\HelloEvent\HelloEvent\obj\Debug\HelloEvent.csproj.CoreCompileInputs.cache
+D:\c#练习项目\HelloEvent\HelloEvent\obj\Debug\HelloEvent.exe
+D:\c#练习项目\HelloEvent\HelloEvent\obj\Debug\HelloEvent.pdb
